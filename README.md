@@ -1,2 +1,2 @@
-# maps
+# Riskrieg | Maps
 Official Riskrieg Maps
