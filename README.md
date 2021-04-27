@@ -32,5 +32,7 @@ This defines the availability of the map. Valid values are `AVAILABLE`, `RESTRIC
 
 ### Alignment
 This defines where the interface should show up on the map.
+
 Valid **vertical** values are `TOP`, `MIDDLE`, and `BOTTOM`.
+
 Valid **horizontal** values are `LEFT`, `CENTER`, and `RIGHT`.
