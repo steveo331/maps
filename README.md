@@ -10,10 +10,11 @@ Now, assuming you have a basic understanding of GitHub, the process is simple!
 
 ## Steps
 
-1. Clone this repository.
-2. Add your map file that you exported from the [official Riskrieg map editor](https://github.com/Riskrieg/map-editor).
-3. Add your map options file to the 'options' folder.
-4. Submit a pull request.
+1. Fork this repository.
+2. Clone your fork.
+3. Add your map file that you exported from the [official Riskrieg map editor](https://github.com/Riskrieg/map-editor).
+4. Add your map options file to the 'options' folder.
+5. Submit a pull request.
 
 That's it! For definitions of the above terms, please read below.
 
